@@ -1,2 +1,2 @@
 # Python
-Anything written in python
+Experimentation in Python.
